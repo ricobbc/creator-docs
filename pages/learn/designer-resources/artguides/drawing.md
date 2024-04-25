@@ -1,5 +1,5 @@
-# Drawing & Designing
-
+# items & clothing
+#keycode 
 ## Style variation
 
 The “Highrise” style can be hard to nail down.  Our metaverse is a place where you can find lots of different things, including different styles.  Sometimes we take the approach of “do what looks best on that item”, even if it goes against our usual style or bends a “rule”.   Sometimes we might render an item differently, add more or less detail, break perspective, abstract something, or apply a lighting effect.  
